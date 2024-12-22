@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React App That Helps People Pack
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was completed using https://paradigm-corp.udemy.com/course/the-ultimate-react-course/
 
 ## Available Scripts
 
